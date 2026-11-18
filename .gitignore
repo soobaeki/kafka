@@ -1,0 +1,18 @@
+# Windows 실행 파일 및 라이브러리
+*.exe
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VS Code IDE 설정
+.idea/
+*.iml
+.vscode/
+
+# Java / Gradle 빌드 결과물
+build/
+.gradle/
+target/
+
+# Docker 관련
